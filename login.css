@@ -1,0 +1,20 @@
+body{
+background-image: url("https://assets.vogue.in/photos/5ce41304b40d262a39d6aa7f/16:9/w_1920,h_1080,c_limit/Spotify-in-India-Add-Music-To-Instagram-Stories.jpg");
+background-size: cover;
+}
+.log{
+   background-color: beige;
+    width : 400px;
+    height : 250px;
+    color : rgb(0, 0, 0);
+    font-size: 20px;
+    line-height: 10px;
+    text-align: center;
+    text-emphasis-position: left;
+    margin-top: 240px;
+    margin-left: 465px;
+    margin-right: 80px;
+    text-decoration-color: black;
+    border: 5px solid rgb(8, 8, 8);
+    border-radius: 30px;
+    }
